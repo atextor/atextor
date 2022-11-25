@@ -12,4 +12,5 @@ In my spare time I'm building the ontology engineering tool
 📚 I post irregularly at [atextor.de](https://atextor.de).
 
 💻 Open Source work stats:
+
 ![atextor's Github stats](https://github-readme-stats.vercel.app/api?username=atextor&show_icons=true&include_all_commits=true&theme=transparent)
