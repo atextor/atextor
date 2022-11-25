@@ -1,6 +1,6 @@
 👋 Hi, I'm Andreas Textor. I'm a computer scientist/software engineer working at
-Bosch Connected Industry @bci-oss. I like working with data and semantic
-descriptions of data.
+Bosch Connected Industry [@bci-oss](https://github.com/bci-oss). I like working
+with data and semantic descriptions of data.
 
 In my spare time I'm building the ontology engineering tool
 [owl-cli](https://github.com/atextor/owl-cli) and libraries such as the RDF
