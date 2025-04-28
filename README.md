@@ -6,8 +6,7 @@ In my spare time I'm building the ontology engineering tool
 [owl-cli](https://github.com/atextor/owl-cli) and libraries such as the RDF
 [turtle-formatter](https://github.com/atextor/turtle-formatter).
 
-📫 You can contact me on [Twitter](https://twitter.com/atextor) and
-[Mastodon](https://chaos.social/@atextor).
+📫 You can contact me on [Mastodon](https://chaos.social/@atextor).
 
 📚 I post irregularly at [atextor.de](https://atextor.de).
 
